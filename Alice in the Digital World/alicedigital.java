@@ -1,3 +1,4 @@
+//Kattis: https://open.kattis.com/problems/alicedigital
 import java.util.Scanner;
 
 public class alicedigital {
