@@ -1,3 +1,4 @@
+//Kattis: https://open.kattis.com/problems/babelfish
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;
