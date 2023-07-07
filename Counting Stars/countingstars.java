@@ -1,3 +1,5 @@
+//Kattis: https://open.kattis.com/problems/countingstars
+
 //Solution uses a union-find approach
 import java.util.*;
 
