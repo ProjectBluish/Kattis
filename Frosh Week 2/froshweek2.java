@@ -1,3 +1,5 @@
+//Kattis: https://open.kattis.com/problems/froshweek2
+
 import java.util.*;
 
 public class froshweek2 {
