@@ -1,3 +1,4 @@
+//Kattis: https://open.kattis.com/problems/autori
 import java.util.Scanner;
 
 public class autori {
