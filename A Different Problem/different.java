@@ -1,3 +1,4 @@
+//Kattis: https://open.kattis.com/problems/different
 import java.util.Scanner;
 
 public class different {
