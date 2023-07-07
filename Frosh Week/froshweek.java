@@ -1,3 +1,5 @@
+//Kattis: https://open.kattis.com/problems/froshweek
+
 //Use merge sort
 import java.util.Scanner;
 
