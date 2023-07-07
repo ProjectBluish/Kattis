@@ -1,3 +1,4 @@
+//Kattis: https://open.kattis.com/problems/twosum
 import java.util.Scanner;
 
 public class twosum {
