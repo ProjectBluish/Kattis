@@ -1,3 +1,5 @@
+//Kattis: https://open.kattis.com/problems/echoechoecho
+
 import java.util.Scanner;
 
 public class echoechoecho {
