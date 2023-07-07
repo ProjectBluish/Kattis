@@ -1,3 +1,4 @@
+//Kattis: https://open.kattis.com/problems/listgame
 import java.util.Scanner;
 import java.util.*;
 
